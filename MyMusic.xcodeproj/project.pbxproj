@@ -12,6 +12,7 @@
 		D12283A42B24C48100F87E0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D12283A32B24C48100F87E0E /* Assets.xcassets */; };
 		D12283A72B24C48100F87E0E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D12283A62B24C48100F87E0E /* Preview Assets.xcassets */; };
 		D12283AE2B256D0800F87E0E /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12283AD2B256D0800F87E0E /* SoundPlayer.swift */; };
+		D15CBCFA2B29FFE500FF49B1 /* BackgroundModifier.seift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D15CBCF92B29FFE500FF49B1 /* BackgroundModifier.seift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		D12283A32B24C48100F87E0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D12283A62B24C48100F87E0E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D12283AD2B256D0800F87E0E /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
+		D15CBCF92B29FFE500FF49B1 /* BackgroundModifier.seift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundModifier.seift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				D122839F2B24C48000F87E0E /* MyMusicApp.swift */,
 				D12283A12B24C48000F87E0E /* ContentView.swift */,
+				D15CBCF92B29FFE500FF49B1 /* BackgroundModifier.seift.swift */,
 				D12283AD2B256D0800F87E0E /* SoundPlayer.swift */,
 				D12283A32B24C48100F87E0E /* Assets.xcassets */,
 				D12283A52B24C48100F87E0E /* Preview Content */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D12283A22B24C48000F87E0E /* ContentView.swift in Sources */,
+				D15CBCFA2B29FFE500FF49B1 /* BackgroundModifier.seift.swift in Sources */,
 				D12283AE2B256D0800F87E0E /* SoundPlayer.swift in Sources */,
 				D12283A02B24C48000F87E0E /* MyMusicApp.swift in Sources */,
 			);
